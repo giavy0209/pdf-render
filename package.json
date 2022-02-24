@@ -1,0 +1,19 @@
+{
+  "name": "pdf-render",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "pdf-poppler": "^0.2.1",
+    "pdf-to-img": "^1.2.0",
+    "pdf2json": "^2.0.0",
+    "pdf2pic": "^2.1.4"
+  }
+}
